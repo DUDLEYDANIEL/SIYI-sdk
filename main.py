@@ -108,3 +108,4 @@ class SIYI:
             - debug [bool] : Printing debug messages
             """
             pass
+ 
